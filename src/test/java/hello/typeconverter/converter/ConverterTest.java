@@ -1,9 +1,5 @@
-package hello.typeconverter.convert;
+package hello.typeconverter.converter;
 
-import hello.typeconverter.converter.IntegerToStringConverter;
-import hello.typeconverter.converter.IpPortToStringConverter;
-import hello.typeconverter.converter.StringToIntegerConverter;
-import hello.typeconverter.converter.StringToIpPortConverter;
 import hello.typeconverter.type.IpPort;
 import org.junit.jupiter.api.Test;
 
