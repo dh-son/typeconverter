@@ -1,3 +1,11 @@
 spring:
   application:
     name: typeconverter
+
+logging:
+  level:
+    org:
+      apache:
+        coyote:
+          http11: trace
+
