@@ -1,3 +1,6 @@
 spring:
   application:
     name: typeconverter
+
+file:
+  dir: /Users/sadoz/Downloads/
